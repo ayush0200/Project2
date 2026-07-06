@@ -327,7 +327,8 @@ body {
     letter-spacing: 0.5px;
 }
 
-.facilities-img-frame { padding: 20px; display: flex; justify-content: center; align-items: center; flex-grow: 1; }
+.facilities-img-frame { padding: 20px; display: flex;
+     justify-content: center; align-items: center; flex-grow: 1; }
 .facilities-map-img { width: 100%; height: auto; max-height: 450px; object-fit: contain; border-radius: 6px; filter: brightness(0.95) contrast(1.05); }
 .facilities-grid-panel { flex: 1.3; min-width: 340px; padding: 30px 25px; display: flex; flex-direction: column; justify-content: center; gap: 20px; }
 .facilities-note-box { background: rgba(255,255,255,0.02); border-left: 3px solid var(--gold); padding: 15px; border-radius: 4px; font-size: 0.85rem; color: var(--text-muted); line-height: 1.5; }
